@@ -1,4 +1,4 @@
-// Compare integers using if statements, relational operators
+package com.stepit.Practice2;// Compare integers using if statements, relational operators
 //and equality operators.
 import java.util.Scanner; //program uses class Scanner
 
