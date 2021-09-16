@@ -1,3 +1,5 @@
+package com.stepit.Practice2;
+
 public class DataTypes {
     public static void main(String[] args) {
         int myNum = 5;              // Integer (whole number)

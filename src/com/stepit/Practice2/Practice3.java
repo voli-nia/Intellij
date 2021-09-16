@@ -1,4 +1,4 @@
-//public class Practice3 {
+package com.stepit.Practice2;//public class Practice1.com.stepit.Practice3 {
 //    public static void main(String[] args){
 //        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
 //        for (int i = 0; i < cars.length; i++) {
@@ -7,7 +7,6 @@
 //    }
 //}
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class Practice3 {
