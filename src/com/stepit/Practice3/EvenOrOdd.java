@@ -2,7 +2,7 @@ package com.stepit.Practice3;
 
 import java.util.Scanner;
 
-public class EvenOdd {
+public class EvenOrOdd {
     static boolean isEven(int number) {
         return number %2 == 0;
     }
