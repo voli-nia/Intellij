@@ -1,4 +1,4 @@
-// Addition program that inputs two numbers then displays their sum.
+package com.stepit.Practice2;// Practice1.Addition program that inputs two numbers then displays their sum.
 import java.util.Scanner; // program uses class Scanner
 
 public class Addition
@@ -23,4 +23,4 @@ public class Addition
 
         System.out.printf("Sum is %d%n", number1 + number2); // display sum
     } // end method main
-} // end class Addition
+} // end class Practice1.Addition
